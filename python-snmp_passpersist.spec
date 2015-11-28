@@ -2,7 +2,7 @@
 Summary:	Python implementation a pass_persist backend for Net-SNMP
 Name:		python-%{module}
 Version:	1.2.2
-Release:	1
+Release:	2
 License:	GPL v3
 Group:		Development/Languages/Python
 Source0:	https://github.com/nagius/snmp_passpersist/archive/v%{version}.tar.gz
