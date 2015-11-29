@@ -10,7 +10,7 @@ Source0:	https://github.com/nagius/snmp_passpersist/archive/v%{version}.tar.gz
 URL:		http://github.com/nagius/snmp_passpersist
 BuildRequires:	python-distribute
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 Requires:	python-modules
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
